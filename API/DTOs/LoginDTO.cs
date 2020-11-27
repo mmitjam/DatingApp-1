@@ -1,6 +1,6 @@
-namespace API.DTOs
+namespace API.Dtos
 {
-    public class LoginDTO
+    public class LoginDto
     {
         public string Username { get; set; }
 

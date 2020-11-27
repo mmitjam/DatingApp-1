@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using API.Entities;
-
+using System.Diagnostics;
 
 namespace API.Data
 {
@@ -11,5 +11,6 @@ namespace API.Data
             
         }
         public DbSet<AppUser> Users { get; set; }
+        
     }
 }
