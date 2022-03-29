@@ -8,10 +8,9 @@ namespace API.Extensions
         {
             var today = DateTime.Today;
             var age = today.Year - dob.Year;
-            if(today.Month > dob.Month)
-            {
-                age++;
-            }
+
+            if (dob.Date > today.AddYears(-age)) age--;
+            
             return age;
         }
     }
