@@ -64,3 +64,5 @@ C:\repos\DatingApp-1\API\obj\Debug\net5.0\ref\API.dll
 C:\repos\DatingApp-1\API\obj\Debug\net5.0\API.pdb
 C:\repos\DatingApp-1\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\repos\DatingApp-1\API\bin\Debug\net5.0\appsettings.json
+C:\repos\DatingApp-1\API\bin\Debug\net5.0\Npgsql.dll
+C:\repos\DatingApp-1\API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

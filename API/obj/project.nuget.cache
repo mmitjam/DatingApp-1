@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bAshWPWs1FdB3Xz8ZNTlmDCDOGKL+3rh1s0y7xHxfnk2eDIfGNj8KuSLjKtZQ8QZHtkbZIQxeV/86DDNxNQr/Q==",
+  "dgSpecHash": "80ltXNFtt/KslurNrEVje6FpIyVo6u2BZw6RQKPTYDsSNA16+2+fDn1MP5QcjaoQwkxxgVqC52n2uOjRmXrS1Q==",
   "success": true,
   "projectFilePath": "C:\\repos\\DatingApp-1\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,8 @@
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.0\\npgsql.entityframeworkcore.postgresql.5.0.0.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.3\\sqlitepclraw.bundle_e_sqlite3.2.0.3.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.3\\sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
@@ -56,6 +58,7 @@
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "C:\\Users\\Madimetja.Mmitja\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
